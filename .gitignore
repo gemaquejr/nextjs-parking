@@ -1,0 +1,22 @@
+# Ignorar node_modules em todos os subdiretórios
+node_modules/
+
+# Ignorar arquivos de log
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignorar dist e builds
+dist/
+.next/
+out/
+
+# Ignorar dependências do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar IDEs
+.idea/
+.vscode/
+*.swp
