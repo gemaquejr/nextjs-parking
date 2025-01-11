@@ -20,3 +20,4 @@ import { VeiculoModule } from './veiculo/veiculo.module';
   controllers: [],
 })
 export class AppModule {}
+
